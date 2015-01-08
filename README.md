@@ -66,7 +66,6 @@ you need to make a further inqury into a search engine that provides train trans
 ## Licence
 Please make sure to comply with the guidelines in order to use our APIs.    
 [Guidline Japanese.ver][guidline_ja]  
-[MIT](https://github.com/docomoDeveloperSupport/open-sentence-sppech-understanding/LICENCE)  
 
 ## Author
 
